@@ -2,7 +2,7 @@
 
 namespace {
 int p1(const vs &input) {
-  int r, p = 0;
+  int r = 0, p = 0;
   for (const auto &l : input) {
     int c = std::stoi(l);
     r += (c > p) ? 1 : 0;
