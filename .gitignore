@@ -1,3 +1,5 @@
 f#/.ionide
 f#/bin
 f#/obj
+.fake
+.ionide
