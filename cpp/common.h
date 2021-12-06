@@ -7,6 +7,8 @@
 #include <set>
 #include <sstream>
 #include <string>
+#include <tuple>
+#include <unordered_map>
 #include <vector>
 
 using vs = std::vector<std::string>;
