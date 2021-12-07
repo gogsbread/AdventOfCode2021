@@ -1,8 +1,11 @@
+#include <algorithm>
 #include <bitset>
+#include <cstdio>
 #include <functional>
 #include <iostream>
 #include <iterator>
 #include <map>
+#include <memory>
 #include <numeric>
 #include <set>
 #include <sstream>
