@@ -39,7 +39,6 @@ long p2(const std::string crabs) {
   return std::min(fuel[0], fuel[1]);
 }
 
-// long p2(const vs &input) {}
 } // namespace
 
 int main() {
