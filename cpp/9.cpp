@@ -33,7 +33,7 @@ long p1(const vs &input) {
     }
   }
   return r;
-} // namespace
+}
 
 long p2(const vs &input) {
   const auto tubes = parse(input);
