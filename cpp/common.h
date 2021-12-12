@@ -2,6 +2,7 @@
 #include <bitset>
 #include <cmath>
 #include <cstdio>
+#include <deque>
 #include <functional>
 #include <iostream>
 #include <iterator>
