@@ -45,3 +45,7 @@ executable('10',
 executable('11',
     '11.cpp',
     dependencies: [])
+
+executable('12',
+    '12.cpp',
+    dependencies: [])
