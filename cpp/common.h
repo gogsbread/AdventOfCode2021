@@ -1,6 +1,7 @@
 #include <algorithm>
 #include <bitset>
 #include <cmath>
+#include <cstdint>
 #include <cstdio>
 #include <deque>
 #include <functional>
