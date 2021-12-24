@@ -24,16 +24,6 @@ vs splitonspace(const std::string &s) {
   return ts;
 }
 
-void print(Board b, BoardState bs) {
-  for (size_t i = 0; i < b.size(); ++i) {
-    for (size_t j = 0; j < b.size(); ++j) {
-      std::cout << b[i][j] << "(" << bs[i][j] << ")"
-                << " ";
-    }
-    std::cout << std::endl;
-  }
-}
-
 auto parse(const vs &input) {
   const auto nums = splitoncomma(input[0]);
 
