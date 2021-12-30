@@ -53,3 +53,15 @@ executable('12',
 executable('13',
     '13.cpp',
     dependencies: [])
+
+executable('14',
+    '14.cpp',
+    dependencies: [])
+
+executable('15',
+    '15.cpp',
+    dependencies: [])
+
+executable('16',
+    '16.cpp',
+    dependencies: [])

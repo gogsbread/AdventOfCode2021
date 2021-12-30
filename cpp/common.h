@@ -1,5 +1,6 @@
 #include <algorithm>
 #include <bitset>
+#include <climits>
 #include <cmath>
 #include <cstdint>
 #include <cstdio>
@@ -16,6 +17,8 @@
 #include <string>
 #include <tuple>
 #include <unordered_map>
+#include <unordered_set>
+#include <variant>
 #include <vector>
 
 using vs = std::vector<std::string>;
